@@ -1,0 +1,2 @@
+# CleanupMails
+IMAP duplicate finder
